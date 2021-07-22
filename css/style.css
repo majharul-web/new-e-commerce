@@ -1,0 +1,50 @@
+/* google font */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+/* all */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* common  */
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  background: linear-gradient(1.02deg, #4a99d3 -17.33%, rgba(74, 153, 211, 0) 75.91%), #ffffff;
+  opacity: 0.9;
+
+  /* box-shadow: 0px 4px 16px rgba(75, 0, 129, 0.26);  */
+}
+
+.hero-left {
+  padding-right: 17%;
+}
+.hero-left h1 {
+  color: #260041;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 70px;
+}
+.hero-left p {
+  font-size: 20px;
+  line-height: 36px;
+  color: #260041;
+}
+button {
+  width: 180px;
+  height: 60px;
+  background: #4a99d3;
+  border-radius: 5px;
+}
+.fab {
+  font-size: 25px;
+}
+.google-hero {
+  color: #febd11;
+}
+.apple-hero {
+  color: #ffffff;
+}
