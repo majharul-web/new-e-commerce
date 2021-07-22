@@ -16,7 +16,7 @@ header {
   background: linear-gradient(1.02deg, #4a99d3 -17.33%, rgba(74, 153, 211, 0) 75.91%), #ffffff;
   opacity: 0.9;
 
-  /* box-shadow: 0px 4px 16px rgba(75, 0, 129, 0.26);  */
+  box-shadow: 0px 4px 16px rgba(75, 0, 129, 0.26);
 }
 
 .hero-left {
