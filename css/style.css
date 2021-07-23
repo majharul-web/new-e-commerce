@@ -48,3 +48,21 @@ button {
 .apple-hero {
   color: #ffffff;
 }
+.side-efect {
+  position: absolute;
+  top: 10px;
+  right: 0;
+}
+.c-title {
+  font-weight: 500;
+  font-size: 20px;
+  color: #0f001a;
+}
+.c-text {
+  font-weight: normal;
+  font-size: 16px;
+  color: #b7b2ba;
+}
+.card-button a {
+  text-decoration: none;
+}
