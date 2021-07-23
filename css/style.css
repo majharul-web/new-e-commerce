@@ -66,3 +66,36 @@ button {
 .card-button a {
   text-decoration: none;
 }
+
+/* work section */
+.work-section {
+  background-color: #edf5fb;
+}
+.work-title {
+  font-weight: bold;
+  font-size: 26px;
+  text-align: center;
+  color: #4a99d3;
+  margin-top: 50px;
+}
+.work-items {
+  display: flex;
+  justify-content: space-evenly;
+}
+.work-item {
+  text-align: center;
+  padding: 15px 43px;
+}
+.w-icon {
+  font-size: 60px;
+  color: #d3844a;
+}
+.w-text h5 {
+  font-weight: 500;
+  font-size: 18px;
+  color: #0f001a;
+}
+.w-text p {
+  font-size: 16px;
+  color: #0f001a;
+}
