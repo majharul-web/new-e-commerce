@@ -99,3 +99,46 @@ button {
   font-size: 16px;
   color: #0f001a;
 }
+
+/* *****   feedback section      ***** */
+.feedback-title {
+  font-weight: bold;
+  font-size: 26px;
+  text-align: center;
+  color: #0f001a;
+  margin-top: 150px;
+}
+.client-content {
+  margin-top: 135px;
+}
+
+.image-background {
+  height: 400px;
+  width: 677px;
+  background-color: #edf5fb;
+}
+.image-background {
+  position: relative;
+}
+.c-immage {
+  position: absolute;
+  left: 178px;
+  bottom: 0;
+}
+.c-immage-main {
+  width: 100%;
+  object-fit: cover;
+}
+.client-speece {
+  padding: 100px 240px 50px 100px;
+}
+.client-speece p {
+  font-size: 16px;
+  color: #b7b2ba;
+  margin-top: 40px;
+}
+.client-speece h5 {
+  font-weight: 500;
+  font-size: 18px;
+  color: #0f001a;
+}
